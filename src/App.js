@@ -20,6 +20,10 @@ class App extends Component {
         <table>
           <tbody>
             <tr>
+
+              {
+                /* top row */
+              }
               <th style={vAlignTop}>
                 <img src={blank} alt="[ICO]"></img>
               </th>
@@ -36,11 +40,19 @@ class App extends Component {
                 <a href="?C=D;O=A">Description</a>
               </th>
             </tr>
+
+            {
+              /* line break */
+            }
             <tr>
               <th colSpan="5">
                 <hr />
               </th>
             </tr>
+
+            {
+              /* first entry */
+            }
             <tr>
               <td style={vAlignTop}>
                 <img src={movie} alt="[VID]" />
