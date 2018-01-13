@@ -112,7 +112,7 @@ class App extends Component {
 
           </tbody>
         </table>
-        <address>Apache/2.4.10 (Debian) Server at brutality.herokuapp.com Port 80</address>
+        <address>Apache/2.4.10 (Debian) Server at drector1.github.io/brutality Port 80</address>
       </div>
 
 
